@@ -1,1 +1,1 @@
-# react-component-practistics
+# vite-react-ts-component-practistics
