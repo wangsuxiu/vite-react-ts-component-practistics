@@ -7,8 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@types/antd": "^1.0.0",
     "@types/classnames": "^2.2.11",
+    "@types/node": "^14.14.25",
+    "antd": "^4.12.2",
     "classnames": "^2.2.6",
+    "node": "^15.7.0",
     "omit.js": "^2.0.2",
     "react": "16.8.6",
     "react-dom": "^17.0.0"
