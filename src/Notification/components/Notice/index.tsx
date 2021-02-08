@@ -1,7 +1,7 @@
 /*
  * @Author: wsx
  * @Date: 2021-02-07 14:48:43
- * @LastEditTime: 2021-02-07 17:05:50
+ * @LastEditTime: 2021-02-07 17:10:54
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /vite-react-ts/src/Notification/components/Notice/index.tsx
@@ -9,7 +9,6 @@
 import React from 'react'
 import NodeJS from 'node';
 import classNames from 'classnames';
-import { on } from 'cluster';
 
 export interface NoticeProps {
     onClose: (key: string | number) => void;
