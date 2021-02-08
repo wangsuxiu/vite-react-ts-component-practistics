@@ -1,7 +1,7 @@
 /*
  * @Author: wsx
  * @Date: 2021-02-07 14:48:43
- * @LastEditTime: 2021-02-07 17:10:54
+ * @LastEditTime: 2021-02-08 16:16:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /vite-react-ts/src/Notification/components/Notice/index.tsx
@@ -15,7 +15,7 @@ export interface NoticeProps {
     duration?: number;
     content: React.ReactNode;
     disableIcon?: boolean;
-    key?: string;
+    key?: string | number;
     noticeId?: string | number;
     className?: string;
     style?: React.CSSProperties;
